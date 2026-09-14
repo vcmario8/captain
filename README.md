@@ -211,8 +211,8 @@
 - [闲聊腾讯的薪酬机制](xiaohongshu-docs/闲聊腾讯的薪酬机制.md)
 
 ### 年终奖
-- [鹅厂年终季-其实大部分业务都很卷](xiaohongshu-docs/鹅厂年终季-其实大部分业务都很卷.md)
-- [鹅厂年终开奖-聊聊各个业务差异](xiaohongshu-docs/鹅厂年终开奖-聊聊各个业务差异.md)
+- [鹅厂年终季—其实大部分业务都很卷](xiaohongshu-docs/鹅厂年终季—其实大部分业务都很卷.md)
+- [鹅厂年终开奖——聊聊各个业务差异](xiaohongshu-docs/鹅厂年终开奖——聊聊各个业务差异.md)
 
 ### 宇宙厂薪酬
 - [宇宙厂绩效进行时](xiaohongshu-docs/宇宙厂绩效进行时.md)
@@ -270,12 +270,26 @@
 ### AI offer选择
 - [如何选择AI相关offer御三家怎么选](xiaohongshu-docs/如何选择AI相关offer御三家怎么选.md)
 - [大模型的社招总包一样选择腾讯还是字节](xiaohongshu-docs/大模型的社招总包一样选择腾讯还是字节.md)
+- [如何稳妥的拿到agent相关offer](xiaohongshu-docs/如何稳妥的拿到agent相关offer.md)
 
 ### AI产品
 - [瞎聊鹅厂-wxg与元宝](xiaohongshu-docs/瞎聊鹅厂-wxg与元宝.md)
 
 ### AI技术
 - [初识AI连接器-MCP](xiaohongshu-docs/初识AI连接器-MCP.md)
+- [AI Coding可能真的不需要知识库](xiaohongshu-docs/AI%20Coding可能真的不需要知识库.md)
+- [AI Native-agent开发进阶面试题](xiaohongshu-docs/AI%20Native-agent开发进阶面试题.md)
+- [AI Native-如何设计复杂任务的Loop](xiaohongshu-docs/AI%20Native-如何设计复杂任务的Loop.md)
+
+### AI Native 转型
+- [AI来了大厂招人的画像有哪些](xiaohongshu-docs/AI来了大厂招人的画像有哪些.md)
+- [AI Native人才画像-面试官到底在筛什么](xiaohongshu-docs/AI%20Native人才画像-面试官到底在筛什么.md)
+- [AI来了大厂正在重新筛人](xiaohongshu-docs/AI来了大厂正在重新筛人.md)
+- [大厂AI native转型现在到哪一步了](xiaohongshu-docs/大厂AI%20native转型现在到哪一步了.md)
+- [个人如何转型AI Native](xiaohongshu-docs/个人如何转型AI%20Native.md)
+- [AI Native转型期大厂的招聘变化](xiaohongshu-docs/AI%20Native转型期大厂的招聘变化.md)
+- [为什么大厂ai coding转型还未规模化](xiaohongshu-docs/为什么大厂ai%20coding转型还未规模化.md)
+- [为什么大厂ai native转型还未规模化](xiaohongshu-docs/为什么大厂ai%20native转型还未规模化.md)
 
 ---
 
@@ -291,4 +305,4 @@
 - [认识鹅厂番外-TME](xiaohongshu-docs/认识鹅厂番外-TME.md)
 
 ### 鹅厂文化
-- [鹅厂趣谈-为"嫡系"正名](xiaohongshu-docs/鹅厂趣谈-为"嫡系"正名.md)
+- [鹅厂趣谈—为“嫡系”正名](xiaohongshu-docs/鹅厂趣谈—为“嫡系”正名.md)
